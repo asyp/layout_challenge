@@ -1,0 +1,101 @@
+* {
+	box-sizing: border box;
+}
+
+.first{
+  border-width: 3px;
+  border-style: solid;
+  border-color: black;
+  margin-right:13px;
+  margin-bottom: 25px;
+  width:150px;
+  height: 100px;
+  float: left;
+}
+
+.second{
+  border-width: 3px;
+  border-style: solid;
+  border-color: black;
+  width: 100px;
+  height: 60px;
+  margin-right:13px;
+  margin-top: 13px;
+  float: left;
+}
+
+.third{
+  border-width: 3px;
+  border-style: solid;
+  border-color: black;
+   width: 100px;
+  height: 60px;
+  margin-right:13px;
+  margin-top: 13px;
+  float: left;
+}
+
+.fourth{
+  border-width: 3px;
+  border-style: solid;
+  border-color: black;
+  width: 100px;
+  height: 60px;
+  margin-top: 13px;
+  float: left;
+}
+
+.fifth{
+  border-width: 3px;
+  border-style: solid;
+  border-color: black;
+  width: 500px;
+  height: 200px;
+  margin-bottom: 13px;
+  clear: both;
+}
+
+.sixth{
+  border-width: 3px;
+  border-style: solid;
+  border-color: black;
+  width: 160px;
+  height: 100px;
+  margin-top:7px;
+  margin-bottom: 13px;
+  margin-right: 6px;
+  clear:both;
+  float: left;
+}
+
+.seventh{
+  border-width: 3px;
+  border-style: solid;
+  border-color: black;
+  width: 160px;
+  height: 100px;
+  margin-top:7px;
+  margin-bottom: 13px;
+  margin-right: 6px;
+  float: left;
+}
+
+.eighth{
+  border-width: 3px;
+  border-style: solid;
+  border-color: black;
+  width: 160px;
+  height: 100px;
+  margin-top:7px;
+  margin-bottom: 13px;
+  float: left;
+}
+
+.ninth{
+  border-width: 3px;
+  border-style: solid;
+  border-color: black;
+  width: 500px;
+  height: 100px;
+  clear: both;
+}

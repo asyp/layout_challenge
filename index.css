@@ -1,0 +1,43 @@
+* {
+	box-sizing: border box;
+}
+
+.first{
+  border-width: 3px;
+  border-style: solid;
+  border-color: black;
+  width:500px;
+  height: 100px;
+}
+
+.second{
+  border-width: 3px;
+  border-style: solid;
+  border-color: black;
+  width: 290px;
+  height: 200px;
+  margin-right:13px;
+  margin-top:7px;
+  float: left;
+}
+
+.third{
+  border-width: 3px;
+  border-style: solid;
+  border-color: black;
+  width: 190px;
+  height: 200px;
+  margin-top:7px;
+  margin-bottom: 13px;
+  float: left;
+}
+
+
+.fourth{
+  border-width: 3px;
+  border-style: solid;
+  border-color: black;
+  width: 500px;
+  height: 100px;
+  clear: both;
+}
